@@ -3,6 +3,7 @@
 #### 2021 Disentis Superfinals
 
 - first Submarine prototypes
+- Luc Armant wins on a Submarine
 
 #### 2022 Nis European Championship
 
