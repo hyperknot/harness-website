@@ -51,13 +51,13 @@
     >
     > What we can see is that the max 1300 g/s on jerk that Zsolt suggested is really, really low.
     >
-    > We definitely need to reduce the impact test max values as already spoken. I fully agree with this, but we need to be careful with what we put if we go into the jerk effect testing.
-    >
     > This topic, including jerk values, will be discussed during the next WG6 meeting.
-    > This is a really sensitive and technical topic, and I think we need to listen to the experts of this WG6 working group and not make a CCC harness standard too fast without thinking about all the effects (good and bad ones).
+    >This is a really sensitive and technical topic, and I think we need to listen to the experts of this WG6 working group and not make a CCC harness standard too fast without thinking about all the effects (good and bad ones).
   - **22 Nov, Fred Pieri via Luc (Ozone):** Reply article:
     [Exploration of the Jerk Limit for Back Protectors](https://fredvol.bitbucket.io/Misc/jerk_analysis/p1/report_jerk.html)
     Points out Zsolt underestimated the min thickness, **correct is at least 12.2 cm+**. Also argues against a simple thickness rule.
+  - **22 Nov, Luc Armant (Ozone):** Reply article:
+  - > I agree that jerk requirements should be dealt by WG6. And the same for other points of the back protection.
   - **26 Nov, Bill Hughes (CIVL):** Shares a final draft which officially **removes all specific protector requirements** from the CIVL standard, finalizing the decision to defer to WG6.
 
 ### Final Outcome
