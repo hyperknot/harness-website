@@ -56,7 +56,7 @@
   - **22 Nov, Fred Pieri via Luc (Ozone):** Reply article:
     [Exploration of the Jerk Limit for Back Protectors](https://fredvol.bitbucket.io/Misc/jerk_analysis/p1/report_jerk.html)
     Points out Zsolt underestimated the min thickness, **correct is at least 12.2 cm+**. Also argues against a simple thickness rule.
-  - **22 Nov, Luc Armant (Ozone):** Reply article:
+  - **22 Nov, Luc Armant (Ozone):**
   - > I agree that jerk requirements should be dealt by WG6. And the same for other points of the back protection.
   - **26 Nov, Bill Hughes (CIVL):** Shares a final draft which officially **removes all specific protector requirements** from the CIVL standard, finalizing the decision to defer to WG6.
 
