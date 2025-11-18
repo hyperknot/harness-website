@@ -28,6 +28,7 @@
   - **Josh Cohn:** Following Zsolt's post of impact graphs, Josh identifies the rapid rate of G-force change as **"jerk"** introducing this to the discussion.
 
 - **November**
+  
   - **Volodymyr Perevalov (Nearbirds):** Independently validates the importance of "jerk" (acceleration gradient) in his analysis of foam vs. honeycomb protectors.
   - **Dr. Matt Wilkes:** Joins the group as a **medical doctor**, **researcher**, and **paraglider pilot**. He published research on harness design and impact forces. He validates the focus on jerk ("low gradient decelerations"), calls Zsolt's dimensioning proposal "reasonable" and outlines his own recommendations.
 
@@ -43,7 +44,17 @@
     [The Future of Paragliding Harness Back Protectors](https://hyperpilot.substack.com/p/the-future-of-paragliding-harness)
     Proposes an interim **10 cm minimum thickness rule** to bridge the gap until a new jerk-based EN standard is released
 - **November**
-  - **8 Nov, Tim Rochas (Niviuk):** Shares data showing that Zsolt's proposed jerk limit of 1300 G/s is extremely ambitious and that **most current protectors would fail**.
+  - **8 Nov, Tim Rochas (Niviuk):**
+    > We made some research about different types of harnesses and protections to have a look at the results between max G, max jerk, and protection thickness.
+    >
+    > ...
+    >
+    > What we can see is that the max 1300 g/s on jerk that Zsolt suggested is really, really low.
+    >
+    > We definitely need to reduce the impact test max values as already spoken. I fully agree with this, but we need to be careful with what we put if we go into the jerk effect testing.
+    >
+    > This topic, including jerk values, will be discussed during the next WG6 meeting.
+    > This is a really sensitive and technical topic, and I think we need to listen to the experts of this WG6 working group and not make a CCC harness standard too fast without thinking about all the effects (good and bad ones).
   - **22 Nov, Fred Pieri via Luc (Ozone):** Reply article:
     [Exploration of the Jerk Limit for Back Protectors](https://fredvol.bitbucket.io/Misc/jerk_analysis/p1/report_jerk.html)
     Points out Zsolt underestimated the min thickness, **correct is at least 12.2 cm+**. Also argues against a simple thickness rule.
@@ -62,3 +73,18 @@
 - Dates like **2028** were discussed.
 - Final consensus is **2030 Cat1**.
 - New proposals can get in effect earliest **2031 Cat1**.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
