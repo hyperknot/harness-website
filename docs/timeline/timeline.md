@@ -16,17 +16,26 @@
   - **Max Jeanpierre (Kortel):** Proposes limiting fairing length and defining a **minimum protector surface area.**
   - **Josh Cohn:** Supports Max Jeanpierre and is the first to propose a **minimum thickness** for back protectors in addition to a G-rating.
   - **Luc Armant (Ozone):** Argues against design-restrictive rules like fairing length, proposing to restrict packed volume and weight via a "box rule" instead.
+  
 - **July**
   - **Theunis de Bruin:** Introduces **Dr. Matt Wilkes' research** on harness safety and suggests a much tougher protector rating (<30G).
+  
 - **August**
   - **Tim Rochas (Niviuk):** Proposes making the EN test stricter (e.g., Max 40G)
   - **Simone Caldana (Woody Valley):** Agrees with improving EN test values but emphasizes the need to increase the protector's **minimum surface area**.
+  
 - **October**
-  - **Zsolt Ero:** Proposes a detailed **minimum dimension** and thickness standard for protectors. [Spine anatomy illustration](assets/4spine.jpg)
+  - **Zsolt Ero:** Proposes a detailed **minimum dimension** and thickness standard for protectors.
 
   ![3harness-graphics](assets/3harness-graphics.png)
-  - **Josh Cohn:** Following Zsolt's post of impact graphs, Josh identifies the rapid rate of G-force change as **"jerk"** introducing this to the discussion.
+  - ![4spine](assets/4spine.jpg)
 
+    ![anatomy2](assets/anatomy2.webp)
+  
+    
+  
+  - **Josh Cohn:** Following Zsolt's post of impact graphs, Josh identifies the rapid rate of G-force change as **"jerk"** introducing this to the discussion.
+  
 - **November**
   
   - **Volodymyr Perevalov (Nearbirds):** Independently validates the importance of "jerk" (acceleration gradient) in his analysis of foam vs. honeycomb protectors.
